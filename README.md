@@ -32,4 +32,4 @@ Showcasing my skills with interactive UI, animations, and integrations.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/Ram_Portfolio.git
+   git clone https://github.com/Ramkantodey/Ram_Portfolio.git
